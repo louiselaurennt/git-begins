@@ -1,0 +1,4 @@
+git clone
+git add .
+git commit -m "texte a remplir"
+git push -u origin main
