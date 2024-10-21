@@ -1,4 +1,6 @@
-git clone
-git add .
-git commit -m "texte a remplir"
-git push -u origin main
+git clone (cloner le repository)
+git add . (ajouter)
+git commit -m "texte a remplir" (commit)
+git push -u origin main (push)
+nano (créer et modifier un fichier)
+git checkout (basculer entre les branches)
